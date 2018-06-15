@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>Key definitions: Content reuse</title>
+  <keydef keys="conref-about-this-specification" href="common/conref-about-this-specification.dita"/>
+  <keydef keys="conref-attribute" href="common/conref-attribute.dita"/>
+  <keydef keys="conref-code-samples" href="common/conref-code-samples.dita"/>
+  <keydef keys="conref-cover-pages" href="common/conref-cover-pages.dita"/>
+  <keydef keys="conref-examples" href="common/conref-examples.dita"/>
+  <keydef keys="conref-file" href="common/conref-file.dita"/>
+</map>
